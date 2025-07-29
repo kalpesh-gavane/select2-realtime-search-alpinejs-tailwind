@@ -1,0 +1,1 @@
+# select2-realtime-search-alpinejs-tailwind
